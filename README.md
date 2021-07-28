@@ -19,7 +19,7 @@
 
 - ⚡ Skill I have **HTML||CSS||BOOTSTRAP||JAVASCRIPT||PHP||PYTHON||MYSQL||C||C#||C++||WORDPRESS||**
  <hr>
- ![Profile views](https://gpvc.arturio.dev/[soravb257])
+ ![Profile views](https://gpvc.arturio.dev/github-profile-views-counter)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
