@@ -9,14 +9,17 @@
 
 - 👯 I’m looking to collaborate on **Building Website doing Raw coding or in WordPress.**
 
-- 🤝 I’m looking for help with **Php/Python/Javascript.**
+- 🤝 I’m looking for help in (https://www.fiverr.com/souravbarman96?up_rollout=true)
 
 - 💬 Ask me about **Programming. || WordPress**
 
 - 📫 How to reach me **souravb257@gmail.com**
 
 - ⚡ Fun fact **I am loving to do travell and chill with friends. ⚡**
+
+- ⚡ Skill I have **HTML||CSS||BOOTSTRAP||JAVASCRIPT||PHP||PYTHON||MYSQL||C||C#||C++||WORDPRESS||**
  <hr>
+ ![Profile views](https://gpvc.arturio.dev/soravb257)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
