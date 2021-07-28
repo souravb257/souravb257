@@ -41,5 +41,13 @@
 <hr>
 <h3 align="center">Status</h3>
 <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=souravb257&show_icons=true&theme=algolia%22"/>
+<hr>
+<hr>
+<h2 align='center'><i><a href="https://github.com/souravb257/github-readme-activity-graph">Graph</i></h2>
+<p align="center">
+<a href="https://github.com/souravb257/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=souravb257&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
 
 # souravb257
