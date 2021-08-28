@@ -42,7 +42,7 @@
 <div>
 <h3 align="center">Status</h3>
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=souravb257&show_icons=true&theme=algolia%22"/>
-<img align="right" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souravb257&layout=compact&langs_count=8&theme=algolia%22/>
+<img align="right" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souravb257&layout=compact&langs_count=8&theme=algolia%22"/>
 </div>
 <hr>
 
